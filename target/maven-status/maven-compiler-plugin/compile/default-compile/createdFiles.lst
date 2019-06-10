@@ -1,0 +1,4 @@
+com\cice\MavenWebDdbb\servlets\Registry.class
+com\cic\MavenWebDdbb\Main.class
+com\cice\MavenWebDdbb\datasource\Datasource.class
+com\cice\MavenWebDdbb\servlets\Login.class
